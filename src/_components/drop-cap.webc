@@ -1,0 +1,15 @@
+<p>
+  <slot></slot>
+</p>
+
+<style webc:scoped>
+  p::first-letter {
+    --drop-cap-lines: 3;
+    float: left;
+    line-height: 1;
+    font-size: calc(1.4em * var(--drop-cap-lines));
+    padding: 0 0.125em 0 0;
+    text-transform: uppercase;
+    /* @apply text-gray-900; */
+  }
+</style>

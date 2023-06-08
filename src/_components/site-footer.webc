@@ -1,0 +1,14 @@
+<footer>
+  <p>&copy; 2022 Yours Truly</p>
+</footer>
+
+<style>
+  footer {
+    padding-block: 3rem;
+    padding-inline: 1rem;
+  }
+
+  footer > p {
+    font-family: fantasy;
+  }
+</style>

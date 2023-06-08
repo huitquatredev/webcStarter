@@ -1,0 +1,16 @@
+---
+layout: layout.webc
+permalink: /
+---
+
+<h1 class="text-9xl">Hello, world !</h1>
+<drop-cap>
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non nisi corrupti
+  est tempora molestias facilis ad in ea consequuntur beatae nemo, atque
+  possimus dicta, distinctio commodi voluptate eum. Aliquam facere obcaecati
+  assumenda quisquam accusamus, excepturi dignissimos, tempora tenetur impedit
+  laboriosam illum pariatur iste? Enim, temporibus praesentium fuga, et, veniam
+  voluptates illum nulla doloribus nemo mollitia excepturi ab possimus. Optio
+  repellat aliquid, ratione sapiente et dolorem atque nostrum tenetur corrupti
+  possimus quas quo qui mollitia incidunt dicta, vitae provident aperiamitaque.
+</drop-cap>
